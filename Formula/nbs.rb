@@ -5,7 +5,7 @@ class Nbs < Formula
 
   if OS.mac?
     url "https://github.com/xpepermint/nbs/archive/0.0.3.tar.gz"
-    sha256 "d28a31f513c83c5355e2d91d6d5b5cc441f45fe24f9d62a982ba3a680a61b5ab"
+    sha256 "55731e903011e6ecc4b93ba6be6ca275553ede9ab2d23162e424c17bb4f5c26b"
   end
 
   def install
